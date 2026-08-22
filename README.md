@@ -60,7 +60,7 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [🍽️ Foodr](https://github.com/jpvoliveir/Foodr) | Sistema de recomendação de alimentos com cálculo metabólico basal e preferências nutricionais | `FastAPI` `Docker` `Python` |
-| [🎲 Sort-Bot](https://github.com/joaogpereira/deep-dish) | Bot de sorteio com estratégia específica e análise de dados | `Python` `Power BI` |
+| [👨‍🍳 Deep-Dish](https://github.com/joaogpereira/deep-dish) | Sistema operacional de gerenciamento de restaurantes | `Laravel` `React` |
 | [🌐 Portfolio](https://github.com/jpvoliveir/Portfolio) | Portfólio pessoal apresentando projetos e trajetória | `HTML` `CSS` |
 
 ---
