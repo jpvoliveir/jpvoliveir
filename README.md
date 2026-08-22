@@ -19,7 +19,7 @@
 
 - 🎓 Cursando **Ciência da Computação**
 - 💙 Apaixonado por **desenvolvimento back-end**
-- 🐍 Foco em **Lar**, **FastAPI** e arquiteturas escaláveis
+- 🐍 Foco em **Laravel**, **React** e arquiteturas escaláveis
 - 🐳 Experiência com **Docker** e containerização
 - 🌍 Baseado em **Brasília, Brasil**
 - 🚀 Sempre aprendendo e explorando novas tecnologias
