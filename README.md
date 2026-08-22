@@ -19,7 +19,7 @@
 
 - 🎓 Cursando **Ciência da Computação**
 - 💙 Apaixonado por **desenvolvimento back-end**
-- 🐍 Foco em **Python**, **FastAPI** e arquiteturas escaláveis
+- 🐍 Foco em **Lar**, **FastAPI** e arquiteturas escaláveis
 - 🐳 Experiência com **Docker** e containerização
 - 🌍 Baseado em **Brasília, Brasil**
 - 🚀 Sempre aprendendo e explorando novas tecnologias
@@ -37,6 +37,10 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
