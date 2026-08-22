@@ -18,7 +18,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Ciência da Computação**
-- 💙 Apaixonado por **desenvolvimento back-end**
+- 💙 Apaixonado por **desenvolvimento desenvolvimento de software e empreededorismo**
 - 🐍 Foco em **Laravel**, **React** e arquiteturas escaláveis
 - 🐳 Experiência com **Docker** e containerização
 - 🌍 Baseado em **Brasília, Brasil**
