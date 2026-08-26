@@ -11,6 +11,9 @@
   <a href="https://github.com/jpvoliveir">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://jpvoliveir.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
+  </a>
 </p>
 
 ---
@@ -61,7 +64,7 @@
 |---------|-----------|-------------|
 | [🍽️ Foodr](https://github.com/jpvoliveir/Foodr) | Sistema de recomendação de alimentos com cálculo metabólico basal e preferências nutricionais | `FastAPI` `Docker` `Python` |
 | [👨‍🍳 Deep-Dish](https://github.com/joaogpereira/deep-dish) | Sistema operacional de gerenciamento de restaurantes | `Laravel` `React` |
-| [🌐 Portfolio](https://github.com/jpvoliveir/Portfolio) | Portfólio pessoal apresentando projetos e trajetória | `HTML` `CSS` |
+| [🌐 Portfolio](https://jpvoliveir.github.io/Portfolio/) | Portfólio pessoal apresentando projetos e trajetória | `HTML` `CSS` |
 
 ---
 
