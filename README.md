@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o João Pedro 👋</h1>
+<h1 align="center">Oi, meu nome é João Pedro!</h1>
 
 <p align="center">
   <b>Desenvolvedor Back-End · Estudante de Ciência da Computação · Brasília 🇧🇷</b>
