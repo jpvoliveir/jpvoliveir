@@ -49,7 +49,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [🍽️ Foodr](https://github.com/jpvoliveir/Foodr) | Sistema de recomendação de alimentos com cálculo metabólico basal e preferências nutricionais | `FastAPI` `Docker` `Python` |
+| [🍽️ FoodFlow](https://apps.apple.com/br/app/foodflow-flexibilidade-com-ia/id6812507879) | Aplicativo de dieta flexível com cálculo metabólico basal e preferências nutricionais | `react native` `Docker` `Laravel` |
 | [👨‍🍳 Deep-Dish](https://github.com/joaogpereira/deep-dish) | Sistema operacional de gerenciamento de restaurantes | `Laravel` `React` |
 | [🌐 Portfolio](https://jpvoliveir.github.io/Portfolio/) | Portfólio pessoal apresentando projetos e trajetória | `HTML` `CSS` |
 
